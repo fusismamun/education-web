@@ -1,0 +1,13 @@
+.headers {
+    margin-right: 50px;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    font-size: 18px;
+}
+a:hover {
+    color: #ffc600;
+}
+.logo {
+    width: 50px;
+}

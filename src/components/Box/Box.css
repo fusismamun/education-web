@@ -1,0 +1,11 @@
+.background-colr {
+    background-color: #07294D;
+    padding: 100px;
+    margin: 0 25px;
+    border-radius: 10px;
+}
+.box{
+    background-color: #fff;
+    padding: 50px;
+    margin: 10px;
+}

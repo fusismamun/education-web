@@ -1,0 +1,32 @@
+.background {
+    opacity: rgba(0, 0, 0, 0.432);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.486),rgba(0, 0, 0, 0.767)),url('/src/Imges/header bg.jpg');
+    background-repeat: no-repeat;
+    padding: 200px 0 50px 0;
+    height: 700px;
+    background-size: cover;
+}
+h1{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+}
+span{
+    color:#ffc600; ;
+}
+p{
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+.btn{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 25px;
+    background-color: #ffc600;
+    margin-bottom: 50px;
+}
+.btn:hover{
+    color: #ffc600;
+    background-color: #07294D;
+}
